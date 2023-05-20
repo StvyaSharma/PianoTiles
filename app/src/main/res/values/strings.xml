@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Black Tiles</string>
+    <string name="game_over">GAME OVER</string>
+    <string name="your_score">YOUR SCORE</string>
+    <string name="new_game">New Game</string>
+    <string name="quit">QUIT</string>
+    <string name="share">SHARE</string>
+    <string name="piano_tiles">Black Tiles</string>
+    <string name="play">PLAY</string>
+    <string name="piano_ntiles">Black\nTiles</string>
+</resources>
